@@ -7,8 +7,8 @@ The learning skills demonstrated here:
 -  Building HTML boilerplate from scratch without using Emmet
 *  Using heading element for recipe header
 *  Incorporate relative link usage to the full ingredients of recipe
-*  Adding unordered list by using <ul>
-*  Adding ordered list by using <li>
+*  Adding unordered list by using HTML element "ul"
+*  Adding ordered list by using HTML element "ol"
 
 ---
 
